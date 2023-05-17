@@ -32,7 +32,7 @@ Target variable to predict:
 **10 year risk of coronary heart disease (CHD)** - (binary: “1”, means “Yes”, “0” means “No”)
 
 
-##Algorithms :
+## Algorithms :
 
 1. **Logistic Regression** 
 2. **K-Nearest Neighbor (KNN)**
